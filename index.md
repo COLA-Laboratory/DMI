@@ -1,4 +1,4 @@
-## Overview
+## Project Page of DMI Paper
 
 This website maintains the supplementary materials related to the following paper
 
@@ -15,7 +15,7 @@ K. Li, R. Chen, Batched Data-Driven Evolutionary Multi-Objective Optimization Ba
 }
 ```
 
-## Structure
+## Website Structure
 
 This website consists of the following parts:
 
@@ -26,6 +26,6 @@ This website consists of the following parts:
 - Figures of population distributions related to DTLZ7, DTLZ71, DTLZ72, inverted DTLZ2.
 - Figures of population distributions related to WFG2, WFG21 to WFG23, and WFG41 to WFG48.
 
-### Support or Contact
+### Contact
 
 This page is maintained by COLA Laboratory. If you have any problem, please feel free to contact [Dr Ke Li](k.li@exeter.ac.uk) and we will help you sort it out.
