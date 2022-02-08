@@ -1,3 +1,5 @@
+![Flowchart](/flowchart.png)
+
 ## Project Page of DMI Paper
 
 This website maintains the supplementary materials related to the following paper
