@@ -1,8 +1,10 @@
 # Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation
 
-![x](/media/rxc/Working/Codes/python/GPy/DMI/assets/x.gif)
+![x](https://github.com/COLA-Laboratory/DMI/blob/main/assets/x.gif?raw=true)
 
-![x](/media/rxc/Working/Codes/python/GPy/DMI/assets/y.gif)
+![x](https://github.com/COLA-Laboratory/DMI/blob/main/assets/y.gif?raw=true)
+
+
 
 **Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation**
 [Ke Li]()\*, [Renzhi Chen]()\*
